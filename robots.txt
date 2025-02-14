@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://bpc.thabatasiquaraadvogada.com.br/sitemap.xml
+Sitemap: https://bpcloas.thabatasiquaraadvogada.com.br/sitemap.xml
