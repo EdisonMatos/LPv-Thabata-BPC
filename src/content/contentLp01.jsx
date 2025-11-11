@@ -7,11 +7,11 @@ const currentYear = new Date().getFullYear();
 const contentLp01 = {
   infos: {
     title:
-      "Dra. Tábatha Siquara – Advogada especialista em BPC/LOAS e Direito Previdenciário",
+      "Dra. Thábata Siquara – Advogada especialista em BPC/LOAS e Direito Previdenciário",
     description:
-      "Dra. Tábatha Siquara é uma especialista renomada em BPC/LOAS e Direito Previdenciário. Com ampla experiência, oferece consultoria e assessoria jurídica para garantir o acesso ao Benefício de Prestação Continuada (BPC/LOAS), aposentadorias, pensões e outros direitos previdenciários.",
+      "Dra. Thábata Siquara é uma especialista renomada em BPC/LOAS e Direito Previdenciário. Com ampla experiência, oferece consultoria e assessoria jurídica para garantir o acesso ao Benefício de Prestação Continuada (BPC/LOAS), aposentadorias, pensões e outros direitos previdenciários.",
     keywords:
-      "Direito Previdenciário, BPC/LOAS, Benefício de Prestação Continuada, Dra. Tábatha Siquara, Consultoria Previdenciária, Assessoria Jurídica, Aposentadoria, Pensões, Direitos Previdenciários, Defesa BPC, Solicitação de BPC, Consultoria BPC/LOAS, Recurso Judicial BPC, Direitos do Idoso, Deficiência e Doenças Graves, Defesa de Benefício Previdenciário, Cancelamento de Benefício, Suporte Jurídico Previdenciário, Especialista em BPC, Caravelas Bahia.",
+      "Direito Previdenciário, BPC/LOAS, Benefício de Prestação Continuada, Dra. Thábata Siquara, Consultoria Previdenciária, Assessoria Jurídica, Aposentadoria, Pensões, Direitos Previdenciários, Defesa BPC, Solicitação de BPC, Consultoria BPC/LOAS, Recurso Judicial BPC, Direitos do Idoso, Deficiência e Doenças Graves, Defesa de Benefício Previdenciário, Cancelamento de Benefício, Suporte Jurídico Previdenciário, Especialista em BPC, Caravelas Bahia.",
   },
   hero: {
     bgImg: bgImg,
@@ -155,7 +155,7 @@ const contentLp01 = {
         serviço prestado. Meu objetivo é proteger seus direitos com a máxima
         eficiência e seriedade. <br />
         <br /> Seja qual for a sua necessidade previdenciária, estou aqui para
-        encontrar a melhor solução. Entre em contato com a Dra Tábatha Siquara e
+        encontrar a melhor solução. Entre em contato com a Dra Thábata Siquara e
         descubra como podemos ser determinantes na defesa dos seus direitos.
       </p>
     ),
@@ -268,7 +268,7 @@ const contentLp01 = {
     sectionHeader: {
       miniTag: "NÃO PERCA TEMPO",
       title: "Seu BPC/LOAS está ao seu alcance, não espere mais!",
-      subtitle: `Na Tábatha Siquara Advocacia e Consultoria Jurídica, estamos preparados para te apoiar. Nossa equipe especializada em direito previdenciário vai te guiar em cada etapa, assegurando que você tenha acesso ao BPC/LOAS que você tem direito. Não deixe que obstáculos financeiros ou burocráticos te impeçam de obter esse benefício.`,
+      subtitle: `Na Thábata Siquara Advocacia e Consultoria Jurídica, estamos preparados para te apoiar. Nossa equipe especializada em direito previdenciário vai te guiar em cada etapa, assegurando que você tenha acesso ao BPC/LOAS que você tem direito. Não deixe que obstáculos financeiros ou burocráticos te impeçam de obter esse benefício.`,
     },
     buttonLabel: "Quero falar com um especialista",
     ctaButtonAriaLabel: "Botão para chamada de ação para contato pelo whatsapp",
